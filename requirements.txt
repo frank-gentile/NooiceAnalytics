@@ -22,7 +22,6 @@ ordereddict==1.1
 protobuf==3.19.1
 pyOpenSSL==21.0.0
 typing_extensions==4.0.1
-wincertstore==0.2.1
 zipp==3.7.0
 gunicorn==20.1.0
 lxml==4.6.5
