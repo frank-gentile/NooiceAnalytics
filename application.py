@@ -35,7 +35,7 @@ violin_fig = create_plot.getViolinPlots(df)
 
 heat_map = create_plot.PlotlyHeatmap(df_p)
 
-end_df = pd.read_csv('data.xlsx')
+end_df = pd.read_csv('data.csv')
                 
 
 animations = {'Scatter':px.scatter(end_df,x='FP_avg',y='mins_avg',color='team',animation_frame='G',size='Points accumulated',range_y=[10,48],range_x=[0,50],hover_name='Player', size_max=45
