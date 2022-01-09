@@ -35,4 +35,4 @@ for team in teams:
         df4['mins_avg'] = df3['mins_avg']
         end_df = end_df.append(df4)
 
-end_df.to_excel('data.xlsx')
+end_df.to_csv('data.csv')
