@@ -78,6 +78,7 @@
 36,Joel Embiid,Ballpark Franks,36,892,34.30769230769231,33.2423076923077
 37,Joel Embiid,Ballpark Franks,37,927,34.333333333333336,33.19444444444445
 38,Joel Embiid,Ballpark Franks,38,966,34.5,32.95178571428572
+39,Joel Embiid,Ballpark Franks,39,990,34.13793103448276,32.94252873563219
 0,Zion Williamson,Ballpark Franks,0,0,,
 1,Zion Williamson,Ballpark Franks,1,0,,
 2,Zion Williamson,Ballpark Franks,2,0,,
@@ -158,7 +159,7 @@
 36,Shai Gilgeous-Alexander,Ballpark Franks,36,709,22.15625,35.25052083333334
 37,Shai Gilgeous-Alexander,Ballpark Franks,37,721,21.848484848484848,35.042424242424254
 38,Shai Gilgeous-Alexander,Ballpark Franks,38,728,21.41176470588235,34.93774509803922
-39,Shai Gilgeous-Alexander,Ballpark Franks,39,760,21.714285714285715,34.93952380952382
+39,Shai Gilgeous-Alexander,Ballpark Franks,39,761,21.742857142857144,34.93952380952382
 0,DeMar DeRozan,Ballpark Franks,0,17,17.0,37.766666666666666
 1,DeMar DeRozan,Ballpark Franks,1,40,20.0,34.68333333333334
 2,DeMar DeRozan,Ballpark Franks,2,60,20.0,34.416666666666664
@@ -197,6 +198,7 @@
 35,DeMar DeRozan,Ballpark Franks,35,833,25.242424242424242,35.13686868686867
 36,DeMar DeRozan,Ballpark Franks,36,856,25.176470588235293,35.08725490196076
 37,DeMar DeRozan,Ballpark Franks,37,891,25.457142857142856,34.8442857142857
+38,DeMar DeRozan,Ballpark Franks,38,903,25.083333333333332,34.76898148148146
 0,Ben Simmons,Ballpark Franks,0,0,,
 1,Ben Simmons,Ballpark Franks,1,0,,
 2,Ben Simmons,Ballpark Franks,2,0,,
@@ -236,6 +238,7 @@
 36,Ben Simmons,Ballpark Franks,36,0,,
 37,Ben Simmons,Ballpark Franks,37,0,,
 38,Ben Simmons,Ballpark Franks,38,0,,
+39,Ben Simmons,Ballpark Franks,39,0,,
 0,Jonas Valanciunas,Ballpark Franks,0,9,9.0,29.583333333333332
 1,Jonas Valanciunas,Ballpark Franks,1,36,18.0,31.391666666666666
 2,Jonas Valanciunas,Ballpark Franks,2,79,26.333333333333332,32.894444444444446
@@ -359,7 +362,7 @@
 39,Jaren Jackson Jr.,Ballpark Franks,39,656,16.82051282051282,27.424358974358967
 40,Jaren Jackson Jr.,Ballpark Franks,40,692,17.3,27.46916666666666
 41,Jaren Jackson Jr.,Ballpark Franks,41,729,17.78048780487805,27.509756097560974
-42,Jaren Jackson Jr.,Ballpark Franks,42,754,17.952380952380953,27.387698412698413
+42,Jaren Jackson Jr.,Ballpark Franks,42,755,17.976190476190474,27.387698412698413
 0,Myles Turner,Ballpark Franks,0,13,13.0,25.816666666666666
 1,Myles Turner,Ballpark Franks,1,66,33.0,34.708333333333336
 2,Myles Turner,Ballpark Franks,2,69,23.0,28.53888888888889
@@ -401,6 +404,7 @@
 38,Myles Turner,Ballpark Franks,38,816,21.473684210526315,29.80043859649123
 39,Myles Turner,Ballpark Franks,39,826,21.17948717948718,29.755128205128205
 40,Myles Turner,Ballpark Franks,40,833,20.825,29.577083333333338
+41,Myles Turner,Ballpark Franks,41,851,20.75609756097561,29.430894308943092
 0,Scottie Barnes,Ballpark Franks,0,8,8.0,32.53333333333333
 1,Scottie Barnes,Ballpark Franks,1,47,23.5,34.00833333333333
 2,Scottie Barnes,Ballpark Franks,2,66,22.0,32.52777777777778
@@ -565,6 +569,7 @@
 40,Alex Len,Ballpark Franks,40,251,10.04,17.339999999999996
 41,Alex Len,Ballpark Franks,41,276,10.615384615384615,17.572435897435895
 42,Alex Len,Ballpark Franks,42,280,10.37037037037037,17.806790123456786
+43,Alex Len,Ballpark Franks,43,291,10.392857142857142,17.797023809523807
 0,Nikola Jokic,Boban  Marjanovic ,0,38,38.0,34.71666666666667
 1,Nikola Jokic,Boban  Marjanovic ,1,92,46.0,34.16666666666667
 2,Nikola Jokic,Boban  Marjanovic ,2,134,44.666666666666664,34.427777777777784
@@ -645,6 +650,7 @@
 38,Julius Randle,Boban  Marjanovic ,38,956,25.83783783783784,35.46846846846847
 39,Julius Randle,Boban  Marjanovic ,39,975,25.657894736842106,35.520175438596496
 40,Julius Randle,Boban  Marjanovic ,40,984,25.23076923076923,35.47521367521368
+41,Julius Randle,Boban  Marjanovic ,41,1009,25.225,35.525000000000006
 0,Donovan Mitchell,Boban  Marjanovic ,0,17,17.0,28.466666666666665
 1,Donovan Mitchell,Boban  Marjanovic ,1,39,19.5,32.86666666666667
 2,Donovan Mitchell,Boban  Marjanovic ,2,55,18.333333333333332,33.35
@@ -686,6 +692,7 @@
 38,Donovan Mitchell,Boban  Marjanovic ,38,868,,
 39,Donovan Mitchell,Boban  Marjanovic ,39,906,25.166666666666668,33.28518518518519
 40,Donovan Mitchell,Boban  Marjanovic ,40,930,25.135135135135137,33.37702702702703
+41,Donovan Mitchell,Boban  Marjanovic ,41,949,24.973684210526315,33.366228070175445
 0,Jimmy Butler,Boban  Marjanovic ,0,25,25.0,29.033333333333335
 1,Jimmy Butler,Boban  Marjanovic ,1,40,20.0,34.65833333333333
 2,Jimmy Butler,Boban  Marjanovic ,2,79,26.333333333333332,34.077777777777776
@@ -726,6 +733,7 @@
 37,Jimmy Butler,Boban  Marjanovic ,37,643,27.956521739130434,33.765942028985506
 38,Jimmy Butler,Boban  Marjanovic ,38,643,,
 39,Jimmy Butler,Boban  Marjanovic ,39,643,,
+40,Jimmy Butler,Boban  Marjanovic ,40,643,,
 0,Khris Middleton,Boban  Marjanovic ,0,23,23.0,30.95
 1,Khris Middleton,Boban  Marjanovic ,1,28,14.0,27.208333333333332
 2,Khris Middleton,Boban  Marjanovic ,2,50,16.666666666666668,29.805555555555554
@@ -810,6 +818,7 @@
 38,Jarrett Allen,Boban  Marjanovic ,38,933,29.15625,32.80624999999999
 39,Jarrett Allen,Boban  Marjanovic ,39,949,28.757575757575758,32.71565656565656
 40,Jarrett Allen,Boban  Marjanovic ,40,987,29.029411764705884,32.651470588235284
+41,Jarrett Allen,Boban  Marjanovic ,41,1003,28.65714285714286,32.5895238095238
 0,Kyle Lowry,Boban  Marjanovic ,0,7,7.0,24.466666666666665
 1,Kyle Lowry,Boban  Marjanovic ,1,7,,
 2,Kyle Lowry,Boban  Marjanovic ,2,18,9.0,27.825
@@ -850,6 +859,7 @@
 37,Kyle Lowry,Boban  Marjanovic ,37,750,22.058823529411764,34.8156862745098
 38,Kyle Lowry,Boban  Marjanovic ,38,766,21.885714285714286,34.28190476190476
 39,Kyle Lowry,Boban  Marjanovic ,39,795,22.083333333333332,34.29907407407407
+40,Kyle Lowry,Boban  Marjanovic ,40,808,21.83783783783784,34.11801801801801
 0,Malcolm Brogdon,Boban  Marjanovic ,0,39,39.0,40.3
 1,Malcolm Brogdon,Boban  Marjanovic ,1,75,37.5,42.166666666666664
 2,Malcolm Brogdon,Boban  Marjanovic ,2,100,33.333333333333336,41.86666666666667
@@ -891,6 +901,7 @@
 38,Malcolm Brogdon,Boban  Marjanovic ,38,610,,
 39,Malcolm Brogdon,Boban  Marjanovic ,39,610,,
 40,Malcolm Brogdon,Boban  Marjanovic ,40,610,,
+41,Malcolm Brogdon,Boban  Marjanovic ,41,614,22.74074074074074,33.61666666666667
 0,Richaun Holmes,Boban  Marjanovic ,0,40,40.0,29.133333333333333
 1,Richaun Holmes,Boban  Marjanovic ,1,59,29.5,23.483333333333334
 2,Richaun Holmes,Boban  Marjanovic ,2,90,30.0,26.20555555555556
@@ -934,6 +945,7 @@
 40,Richaun Holmes,Boban  Marjanovic ,40,573,,
 41,Richaun Holmes,Boban  Marjanovic ,41,573,,
 42,Richaun Holmes,Boban  Marjanovic ,42,573,,
+43,Richaun Holmes,Boban  Marjanovic ,43,573,,
 0,D'Angelo Russell,Boban  Marjanovic ,0,23,23.0,24.683333333333334
 1,D'Angelo Russell,Boban  Marjanovic ,1,25,12.5,26.933333333333334
 2,D'Angelo Russell,Boban  Marjanovic ,2,35,11.666666666666666,27.805555555555557
@@ -1016,6 +1028,7 @@
 38,Mike Conley,Boban  Marjanovic ,38,634,,
 39,Mike Conley,Boban  Marjanovic ,39,653,18.65714285714286,28.377619047619046
 40,Mike Conley,Boban  Marjanovic ,40,672,18.666666666666668,28.47824074074074
+41,Mike Conley,Boban  Marjanovic ,41,682,18.43243243243243,28.445495495495496
 0,Desmond Bane,Boban  Marjanovic ,0,21,21.0,29.65
 1,Desmond Bane,Boban  Marjanovic ,1,43,21.5,30.225
 2,Desmond Bane,Boban  Marjanovic ,2,64,21.333333333333332,30.416666666666668
@@ -1099,6 +1112,7 @@
 37,Derrick White,Boban  Marjanovic ,37,681,,
 38,Derrick White,Boban  Marjanovic ,38,681,,
 39,Derrick White,Boban  Marjanovic ,39,681,,
+40,Derrick White,Boban  Marjanovic ,40,681,,
 0,Nic Claxton,Boban  Marjanovic ,0,13,13.0,24.166666666666668
 1,Nic Claxton,Boban  Marjanovic ,1,16,8.0,20.5
 2,Nic Claxton,Boban  Marjanovic ,2,22,7.333333333333333,19.772222222222222
@@ -1138,6 +1152,7 @@
 36,Nic Claxton,Boban  Marjanovic ,36,253,14.055555555555555,22.033333333333335
 37,Nic Claxton,Boban  Marjanovic ,37,283,14.894736842105264,22.62982456140351
 38,Nic Claxton,Boban  Marjanovic ,38,284,14.2,22.131666666666668
+39,Nic Claxton,Boban  Marjanovic ,39,284,,
 0,Karl-Anthony Towns,Double Pandemic P,0,47,47.0,29.383333333333333
 1,Karl-Anthony Towns,Double Pandemic P,1,69,34.5,29.0
 2,Karl-Anthony Towns,Double Pandemic P,2,118,39.333333333333336,32.53333333333333
@@ -1218,6 +1233,7 @@
 36,Kevin Durant,Double Pandemic P,36,1122,35.0625,37.06458333333333
 37,Kevin Durant,Double Pandemic P,37,1152,34.90909090909091,37.25050505050505
 38,Kevin Durant,Double Pandemic P,38,1194,35.11764705882353,37.377450980392155
+39,Kevin Durant,Double Pandemic P,39,1232,35.2,37.16761904761904
 0,Rudy Gobert,Double Pandemic P,0,37,37.0,29.483333333333334
 1,Rudy Gobert,Double Pandemic P,1,75,37.5,30.85
 2,Rudy Gobert,Double Pandemic P,2,108,36.0,31.644444444444446
@@ -1259,6 +1275,7 @@
 38,Rudy Gobert,Double Pandemic P,38,1208,,
 39,Rudy Gobert,Double Pandemic P,39,1208,,
 40,Rudy Gobert,Double Pandemic P,40,1208,,
+41,Rudy Gobert,Double Pandemic P,41,1208,,
 0,De'Aaron Fox,Double Pandemic P,0,22,22.0,36.11666666666667
 1,De'Aaron Fox,Double Pandemic P,1,28,14.0,35.641666666666666
 2,De'Aaron Fox,Double Pandemic P,2,41,13.666666666666666,35.105555555555554
@@ -1302,6 +1319,7 @@
 40,De'Aaron Fox,Double Pandemic P,40,703,19.0,34.23198198198198
 41,De'Aaron Fox,Double Pandemic P,41,712,18.736842105263158,34.27105263157895
 42,De'Aaron Fox,Double Pandemic P,42,723,18.53846153846154,34.189743589743586
+43,De'Aaron Fox,Double Pandemic P,43,745,18.625,34.25583333333333
 0,Zach LaVine,Double Pandemic P,0,40,40.0,35.333333333333336
 1,Zach LaVine,Double Pandemic P,1,75,37.5,33.425
 2,Zach LaVine,Double Pandemic P,2,86,28.666666666666668,33.31666666666666
@@ -1340,6 +1358,7 @@
 35,Zach LaVine,Double Pandemic P,35,896,26.352941176470587,35.04607843137256
 36,Zach LaVine,Double Pandemic P,36,906,25.885714285714286,35.03142857142858
 37,Zach LaVine,Double Pandemic P,37,927,25.75,34.866203703703704
+38,Zach LaVine,Double Pandemic P,38,950,25.675675675675677,34.81216216216216
 0,Lonzo Ball,Double Pandemic P,0,14,14.0,33.36666666666667
 1,Lonzo Ball,Double Pandemic P,1,69,34.5,34.25
 2,Lonzo Ball,Double Pandemic P,2,88,29.333333333333332,35.416666666666664
@@ -1378,6 +1397,7 @@
 35,Lonzo Ball,Double Pandemic P,35,656,21.161290322580644,35.40913978494624
 36,Lonzo Ball,Double Pandemic P,36,677,21.15625,35.311458333333334
 37,Lonzo Ball,Double Pandemic P,37,709,21.484848484848484,35.067676767676765
+38,Lonzo Ball,Double Pandemic P,38,731,21.5,34.96421568627451
 0,Caris LeVert,Double Pandemic P,0,0,,
 1,Caris LeVert,Double Pandemic P,1,0,,
 2,Caris LeVert,Double Pandemic P,2,0,,
@@ -1419,6 +1439,7 @@
 38,Caris LeVert,Double Pandemic P,38,476,,
 39,Caris LeVert,Double Pandemic P,39,476,,
 40,Caris LeVert,Double Pandemic P,40,476,,
+41,Caris LeVert,Double Pandemic P,41,493,17.0,30.305172413793105
 0,Jakob Poeltl,Double Pandemic P,0,34,34.0,29.816666666666666
 1,Jakob Poeltl,Double Pandemic P,1,53,26.5,27.991666666666667
 2,Jakob Poeltl,Double Pandemic P,2,75,25.0,30.188888888888886
@@ -1459,6 +1480,7 @@
 37,Jakob Poeltl,Double Pandemic P,37,640,20.64516129032258,28.41612903225806
 38,Jakob Poeltl,Double Pandemic P,38,668,20.875,28.66197916666666
 39,Jakob Poeltl,Double Pandemic P,39,690,20.90909090909091,28.52424242424242
+40,Jakob Poeltl,Double Pandemic P,40,711,20.91176470588235,28.60980392156862
 0,OG Anunoby,Double Pandemic P,0,14,14.0,33.983333333333334
 1,OG Anunoby,Double Pandemic P,1,21,10.5,33.94166666666666
 2,OG Anunoby,Double Pandemic P,2,49,16.333333333333332,33.25555555555555
@@ -1538,6 +1560,7 @@
 38,Kyle Kuzma,Double Pandemic P,38,785,21.216216216216218,33.109009009009014
 39,Kyle Kuzma,Double Pandemic P,39,829,21.81578947368421,33.245614035087726
 40,Kyle Kuzma,Double Pandemic P,40,859,22.025641025641026,33.29102564102565
+41,Kyle Kuzma,Double Pandemic P,41,895,22.375,33.338750000000005
 0,Cole Anthony,Double Pandemic P,0,7,7.0,30.033333333333335
 1,Cole Anthony,Double Pandemic P,1,13,6.5,30.81666666666667
 2,Cole Anthony,Double Pandemic P,2,68,22.666666666666668,32.12777777777778
@@ -1579,6 +1602,7 @@
 38,Cole Anthony,Double Pandemic P,38,593,23.72,33.886
 39,Cole Anthony,Double Pandemic P,39,615,23.653846153846153,33.968589743589746
 40,Cole Anthony,Double Pandemic P,40,625,23.14814814814815,34.03271604938272
+41,Cole Anthony,Double Pandemic P,41,656,23.428571428571427,34.00416666666667
 0,Marcus Morris Sr.,Double Pandemic P,0,11,11.0,25.033333333333335
 1,Marcus Morris Sr.,Double Pandemic P,1,15,7.5,27.416666666666668
 2,Marcus Morris Sr.,Double Pandemic P,2,15,,
@@ -1659,6 +1683,7 @@
 35,Coby White,Double Pandemic P,35,226,12.555555555555555,24.728703703703708
 36,Coby White,Double Pandemic P,36,241,12.68421052631579,24.86754385964913
 37,Coby White,Double Pandemic P,37,252,12.6,24.77583333333334
+38,Coby White,Double Pandemic P,38,271,12.904761904761905,24.78968253968255
 0,Anfernee Simons,Double Pandemic P,0,16,16.0,17.65
 1,Anfernee Simons,Double Pandemic P,1,34,17.0,20.825
 2,Anfernee Simons,Double Pandemic P,2,43,14.333333333333334,20.7
@@ -1738,6 +1763,7 @@
 36,James Harden,Frankpark Balls,36,1149,34.81818181818182,36.6388888888889
 37,James Harden,Frankpark Balls,37,1187,34.911764705882355,36.85392156862746
 38,James Harden,Frankpark Balls,38,1187,,
+39,James Harden,Frankpark Balls,39,1238,35.371428571428574,36.75142857142858
 0,Trae Young,Frankpark Balls,0,27,27.0,32.68333333333333
 1,Trae Young,Frankpark Balls,1,47,23.5,34.06666666666666
 2,Trae Young,Frankpark Balls,2,85,28.333333333333332,33.4
@@ -1777,6 +1803,7 @@
 36,Trae Young,Frankpark Balls,36,1066,,
 37,Trae Young,Frankpark Balls,37,1096,32.23529411764706,34.666666666666664
 38,Trae Young,Frankpark Balls,38,1113,31.8,34.659523809523805
+39,Trae Young,Frankpark Balls,39,1122,31.166666666666668,34.59074074074074
 0,Anthony Davis,Frankpark Balls,0,39,39.0,38.916666666666664
 1,Anthony Davis,Frankpark Balls,1,71,35.5,38.53333333333333
 2,Anthony Davis,Frankpark Balls,2,96,32.0,36.922222222222224
@@ -1818,6 +1845,7 @@
 38,Anthony Davis,Frankpark Balls,38,800,,
 39,Anthony Davis,Frankpark Balls,39,800,,
 40,Anthony Davis,Frankpark Balls,40,800,,
+41,Anthony Davis,Frankpark Balls,41,800,,
 0,Christian Wood,Frankpark Balls,0,19,19.0,32.03333333333333
 1,Christian Wood,Frankpark Balls,1,71,35.5,32.724999999999994
 2,Christian Wood,Frankpark Balls,2,93,31.0,33.65555555555555
@@ -1860,6 +1888,7 @@
 39,Christian Wood,Frankpark Balls,39,899,24.2972972972973,30.69504504504504
 40,Christian Wood,Frankpark Balls,40,928,24.42105263157895,30.636842105263153
 41,Christian Wood,Frankpark Balls,41,944,24.205128205128204,30.766239316239314
+42,Christian Wood,Frankpark Balls,42,977,24.425,30.796666666666663
 0,Russell Westbrook,Frankpark Balls,0,4,4.0,35.13333333333333
 1,Russell Westbrook,Frankpark Balls,1,29,14.5,34.858333333333334
 2,Russell Westbrook,Frankpark Balls,2,51,17.0,35.49444444444445
@@ -1901,6 +1930,7 @@
 38,Russell Westbrook,Frankpark Balls,38,1066,27.333333333333332,35.797863247863255
 39,Russell Westbrook,Frankpark Balls,39,1089,27.225,35.68083333333334
 40,Russell Westbrook,Frankpark Balls,40,1099,26.804878048780488,35.44796747967481
+41,Russell Westbrook,Frankpark Balls,41,1112,26.476190476190474,35.4920634920635
 0,Chris Paul,Frankpark Balls,0,30,30.0,33.61666666666667
 1,Chris Paul,Frankpark Balls,1,69,34.5,31.425
 2,Chris Paul,Frankpark Balls,2,83,27.666666666666668,29.45
@@ -1980,6 +2010,7 @@
 36,John Collins,Frankpark Balls,36,800,,
 37,John Collins,Frankpark Balls,37,820,24.848484848484848,32.58535353535353
 38,John Collins,Frankpark Balls,38,827,24.323529411764707,32.626960784313724
+39,John Collins,Frankpark Balls,39,857,24.485714285714284,32.62904761904762
 0,Robert Williams III,Frankpark Balls,0,40,40.0,44.81666666666667
 1,Robert Williams III,Frankpark Balls,1,54,27.0,36.650000000000006
 2,Robert Williams III,Frankpark Balls,2,61,20.333333333333332,33.66666666666667
@@ -2021,6 +2052,7 @@
 38,Robert Williams III,Frankpark Balls,38,658,21.933333333333334,28.78222222222222
 39,Robert Williams III,Frankpark Balls,39,683,22.032258064516128,28.940860215053764
 40,Robert Williams III,Frankpark Balls,40,719,22.46875,29.3296875
+41,Robert Williams III,Frankpark Balls,41,734,22.242424242424242,29.132323232323234
 0,Wendell Carter Jr.,Frankpark Balls,0,19,19.0,18.75
 1,Wendell Carter Jr.,Frankpark Balls,1,46,23.0,24.441666666666666
 2,Wendell Carter Jr.,Frankpark Balls,2,68,22.666666666666668,26.594444444444445
@@ -2062,6 +2094,7 @@
 38,Wendell Carter Jr.,Frankpark Balls,38,877,23.7027027027027,29.342342342342345
 39,Wendell Carter Jr.,Frankpark Balls,39,877,,
 40,Wendell Carter Jr.,Frankpark Balls,40,877,,
+41,Wendell Carter Jr.,Frankpark Balls,41,877,,
 0,Bojan Bogdanovic,Frankpark Balls,0,15,15.0,26.083333333333332
 1,Bojan Bogdanovic,Frankpark Balls,1,20,10.0,26.65
 2,Bojan Bogdanovic,Frankpark Balls,2,36,12.0,26.105555555555554
@@ -2101,6 +2134,7 @@
 36,Bojan Bogdanovic,Frankpark Balls,36,323,,
 37,Bojan Bogdanovic,Frankpark Balls,37,339,13.56,28.71
 38,Bojan Bogdanovic,Frankpark Balls,38,363,13.961538461538462,28.80128205128205
+39,Bojan Bogdanovic,Frankpark Balls,39,381,14.11111111111111,28.90555555555556
 0,Aaron Gordon,Frankpark Balls,0,21,21.0,29.016666666666666
 1,Aaron Gordon,Frankpark Balls,1,29,14.5,29.416666666666664
 2,Aaron Gordon,Frankpark Balls,2,39,13.0,28.972222222222218
@@ -2222,6 +2256,7 @@
 36,Patty Mills,Frankpark Balls,36,129,,
 37,Patty Mills,Frankpark Balls,37,129,,
 38,Patty Mills,Frankpark Balls,38,129,,
+39,Patty Mills,Frankpark Balls,39,129,,
 0,Franz Wagner,Frankpark Balls,0,18,18.0,32.266666666666666
 1,Franz Wagner,Frankpark Balls,1,33,16.5,33.03333333333333
 2,Franz Wagner,Frankpark Balls,2,46,15.333333333333334,34.9
@@ -2263,6 +2298,7 @@
 38,Franz Wagner,Frankpark Balls,38,660,16.923076923076923,32.32777777777777
 39,Franz Wagner,Frankpark Balls,39,668,16.7,32.212083333333325
 40,Franz Wagner,Frankpark Balls,40,683,16.658536585365855,32.127642276422755
+41,Franz Wagner,Frankpark Balls,41,709,16.88095238095238,32.13531746031745
 0,Paul George,FuxEm_Like ARabbott,0,44,44.0,36.55
 1,Paul George,FuxEm_Like ARabbott,1,98,49.0,35.675
 2,Paul George,FuxEm_Like ARabbott,2,115,38.333333333333336,32.64444444444444
@@ -2346,6 +2382,7 @@
 38,Domantas Sabonis,FuxEm_Like ARabbott,38,1211,31.86842105263158,34.55219298245614
 39,Domantas Sabonis,FuxEm_Like ARabbott,39,1259,32.282051282051285,34.63247863247864
 40,Domantas Sabonis,FuxEm_Like ARabbott,40,1304,32.6,34.88
+41,Domantas Sabonis,FuxEm_Like ARabbott,41,1328,32.390243902439025,34.806910569105696
 0,Clint Capela,FuxEm_Like ARabbott,0,30,30.0,20.55
 1,Clint Capela,FuxEm_Like ARabbott,1,52,26.0,23.925
 2,Clint Capela,FuxEm_Like ARabbott,2,66,22.0,24.583333333333332
@@ -2385,6 +2422,7 @@
 36,Clint Capela,FuxEm_Like ARabbott,36,912,26.057142857142857,29.87333333333333
 37,Clint Capela,FuxEm_Like ARabbott,37,924,25.666666666666668,29.678240740740737
 38,Clint Capela,FuxEm_Like ARabbott,38,924,,
+39,Clint Capela,FuxEm_Like ARabbott,39,924,,
 0,Devin Booker,FuxEm_Like ARabbott,0,8,8.0,29.95
 1,Devin Booker,FuxEm_Like ARabbott,1,27,13.5,31.758333333333333
 2,Devin Booker,FuxEm_Like ARabbott,2,49,16.333333333333332,30.566666666666666
@@ -2508,6 +2546,7 @@
 37,Dejounte Murray,FuxEm_Like ARabbott,37,1013,30.696969696969695,34.23585858585858
 38,Dejounte Murray,FuxEm_Like ARabbott,38,1044,30.705882352941178,34.39117647058823
 39,Dejounte Murray,FuxEm_Like ARabbott,39,1070,30.571428571428573,34.276190476190465
+40,Dejounte Murray,FuxEm_Like ARabbott,40,1128,31.333333333333332,34.3449074074074
 0,Kristaps Porzingis,FuxEm_Like ARabbott,0,7,7.0,28.816666666666666
 1,Kristaps Porzingis,FuxEm_Like ARabbott,1,34,17.0,29.008333333333333
 2,Kristaps Porzingis,FuxEm_Like ARabbott,2,37,12.333333333333334,25.844444444444445
@@ -2548,6 +2587,7 @@
 37,Kristaps Porzingis,FuxEm_Like ARabbott,37,665,,
 38,Kristaps Porzingis,FuxEm_Like ARabbott,38,665,,
 39,Kristaps Porzingis,FuxEm_Like ARabbott,39,665,,
+40,Kristaps Porzingis,FuxEm_Like ARabbott,40,665,,
 0,Miles Bridges,FuxEm_Like ARabbott,0,13,13.0,33.516666666666666
 1,Miles Bridges,FuxEm_Like ARabbott,1,43,21.5,34.33333333333333
 2,Miles Bridges,FuxEm_Like ARabbott,2,60,20.0,31.394444444444442
@@ -2629,6 +2669,7 @@
 38,Darius Garland,FuxEm_Like ARabbott,38,779,23.606060606060606,34.39141414141414
 39,Darius Garland,FuxEm_Like ARabbott,39,783,23.029411764705884,34.34705882352941
 40,Darius Garland,FuxEm_Like ARabbott,40,806,23.02857142857143,34.336190476190474
+41,Darius Garland,FuxEm_Like ARabbott,41,849,23.583333333333332,34.335648148148145
 0,Tyrese Haliburton,FuxEm_Like ARabbott,0,4,4.0,28.6
 1,Tyrese Haliburton,FuxEm_Like ARabbott,1,25,12.5,31.808333333333334
 2,Tyrese Haliburton,FuxEm_Like ARabbott,2,45,15.0,31.16111111111111
@@ -2672,6 +2713,7 @@
 40,Tyrese Haliburton,FuxEm_Like ARabbott,40,847,21.71794871794872,33.89358974358976
 41,Tyrese Haliburton,FuxEm_Like ARabbott,41,871,21.775,33.92583333333335
 42,Tyrese Haliburton,FuxEm_Like ARabbott,42,896,21.853658536585368,33.98739837398376
+43,Tyrese Haliburton,FuxEm_Like ARabbott,43,925,22.023809523809526,34.07579365079367
 0,Jalen Brunson,FuxEm_Like ARabbott,0,20,20.0,25.666666666666668
 1,Jalen Brunson,FuxEm_Like ARabbott,1,29,14.5,24.183333333333334
 2,Jalen Brunson,FuxEm_Like ARabbott,2,56,18.666666666666668,25.566666666666666
@@ -2712,6 +2754,7 @@
 37,Jalen Brunson,FuxEm_Like ARabbott,37,694,18.756756756756758,30.957207207207205
 38,Jalen Brunson,FuxEm_Like ARabbott,38,722,19.0,30.81315789473684
 39,Jalen Brunson,FuxEm_Like ARabbott,39,746,19.128205128205128,30.738461538461536
+40,Jalen Brunson,FuxEm_Like ARabbott,40,767,19.175,30.897916666666664
 0,Saddiq Bey,FuxEm_Like ARabbott,0,15,15.0,32.53333333333333
 1,Saddiq Bey,FuxEm_Like ARabbott,1,48,24.0,33.375
 2,Saddiq Bey,FuxEm_Like ARabbott,2,74,24.666666666666668,33.33888888888889
@@ -2793,6 +2836,7 @@
 38,Kevin Love,FuxEm_Like ARabbott,38,656,21.161290322580644,21.810215053763436
 39,Kevin Love,FuxEm_Like ARabbott,39,658,20.5625,21.56927083333333
 40,Kevin Love,FuxEm_Like ARabbott,40,674,20.424242424242426,21.53939393939394
+41,Kevin Love,FuxEm_Like ARabbott,41,693,20.38235294117647,21.520588235294117
 0,Jalen Green,FuxEm_Like ARabbott,0,0,0.0,13.283333333333333
 1,Jalen Green,FuxEm_Like ARabbott,1,13,6.5,13.683333333333334
 2,Jalen Green,FuxEm_Like ARabbott,2,11,3.6666666666666665,12.555555555555557
@@ -2872,6 +2916,7 @@
 37,Luka Doncic,Harrisburg Frank,37,766,31.916666666666668,34.763194444444444
 38,Luka Doncic,Harrisburg Frank,38,766,,
 39,Luka Doncic,Harrisburg Frank,39,814,32.56,34.788666666666664
+40,Luka Doncic,Harrisburg Frank,40,837,32.19230769230769,34.848076923076924
 0,Jayson Tatum,Harrisburg Frank,0,17,17.0,44.61666666666667
 1,Jayson Tatum,Harrisburg Frank,1,37,18.5,37.475
 2,Jayson Tatum,Harrisburg Frank,2,71,23.666666666666668,37.28333333333333
@@ -2913,6 +2958,7 @@
 38,Jayson Tatum,Harrisburg Frank,38,982,28.057142857142857,36.79380952380953
 39,Jayson Tatum,Harrisburg Frank,39,999,27.75,36.58935185185186
 40,Jayson Tatum,Harrisburg Frank,40,1018,27.513513513513512,36.740990990991
+41,Jayson Tatum,Harrisburg Frank,41,1057,27.81578947368421,36.74868421052632
 0,Bam Adebayo,Harrisburg Frank,0,30,30.0,23.166666666666668
 1,Bam Adebayo,Harrisburg Frank,1,58,29.0,31.258333333333333
 2,Bam Adebayo,Harrisburg Frank,2,90,30.0,30.516666666666666
@@ -2953,6 +2999,7 @@
 37,Bam Adebayo,Harrisburg Frank,37,451,,
 38,Bam Adebayo,Harrisburg Frank,38,451,,
 39,Bam Adebayo,Harrisburg Frank,39,451,,
+40,Bam Adebayo,Harrisburg Frank,40,451,,
 0,LaMelo Ball,Harrisburg Frank,0,42,42.0,28.95
 1,LaMelo Ball,Harrisburg Frank,1,67,33.5,28.916666666666664
 2,LaMelo Ball,Harrisburg Frank,2,87,29.0,27.96111111111111
@@ -2994,6 +3041,7 @@
 38,LaMelo Ball,Harrisburg Frank,38,957,29.0,31.89090909090908
 39,LaMelo Ball,Harrisburg Frank,39,982,28.88235294117647,31.727450980392145
 40,LaMelo Ball,Harrisburg Frank,40,1002,28.62857142857143,31.831428571428557
+41,LaMelo Ball,Harrisburg Frank,41,1019,28.305555555555557,31.938425925925912
 0,Jaylen Brown,Harrisburg Frank,0,53,53.0,45.96666666666667
 1,Jaylen Brown,Harrisburg Frank,1,50,25.0,37.18333333333334
 2,Jaylen Brown,Harrisburg Frank,2,50,,
@@ -3035,6 +3083,7 @@
 38,Jaylen Brown,Harrisburg Frank,38,580,23.2,34.403333333333336
 39,Jaylen Brown,Harrisburg Frank,39,633,24.346153846153847,34.41858974358974
 40,Jaylen Brown,Harrisburg Frank,40,673,24.925925925925927,34.76913580246914
+41,Jaylen Brown,Harrisburg Frank,41,711,25.392857142857142,34.78392857142857
 0,Ja Morant,Harrisburg Frank,0,38,38.0,33.6
 1,Ja Morant,Harrisburg Frank,1,63,31.5,34.075
 2,Ja Morant,Harrisburg Frank,2,113,37.666666666666664,35.300000000000004
@@ -3157,6 +3206,7 @@
 38,Terry Rozier,Harrisburg Frank,38,568,18.933333333333334,31.640555555555558
 39,Terry Rozier,Harrisburg Frank,39,602,19.419354838709676,31.73225806451613
 40,Terry Rozier,Harrisburg Frank,40,635,19.84375,31.97760416666667
+41,Terry Rozier,Harrisburg Frank,41,660,20.0,32.2439393939394
 0,Spencer Dinwiddie,Harrisburg Frank,0,14,14.0,26.15
 1,Spencer Dinwiddie,Harrisburg Frank,1,57,28.5,30.433333333333334
 2,Spencer Dinwiddie,Harrisburg Frank,2,71,23.666666666666668,28.844444444444445
@@ -3197,7 +3247,8 @@
 37,Spencer Dinwiddie,Harrisburg Frank,37,506,,
 38,Spencer Dinwiddie,Harrisburg Frank,38,527,17.566666666666666,30.143333333333338
 39,Spencer Dinwiddie,Harrisburg Frank,39,543,17.516129032258064,30.170430107526887
-40,Spencer Dinwiddie,Harrisburg Frank,40,578,18.0625,30.277604166666674
+40,Spencer Dinwiddie,Harrisburg Frank,40,577,18.03125,30.277604166666674
+41,Spencer Dinwiddie,Harrisburg Frank,41,594,18.0,30.3419191919192
 0,Norman Powell,Harrisburg Frank,0,12,12.0,35.166666666666664
 1,Norman Powell,Harrisburg Frank,1,30,15.0,23.791666666666664
 2,Norman Powell,Harrisburg Frank,2,30,,
@@ -3279,6 +3330,7 @@
 38,Gordon Hayward,Harrisburg Frank,38,751,19.763157894736842,33.131140350877196
 39,Gordon Hayward,Harrisburg Frank,39,759,19.46153846153846,33.12307692307693
 40,Gordon Hayward,Harrisburg Frank,40,776,19.4,33.19583333333334
+41,Gordon Hayward,Harrisburg Frank,41,819,19.975609756097562,33.276016260162606
 0,Evan Mobley,Harrisburg Frank,0,28,28.0,38.3
 1,Evan Mobley,Harrisburg Frank,1,44,22.0,35.375
 2,Evan Mobley,Harrisburg Frank,2,78,26.0,35.300000000000004
@@ -3320,6 +3372,7 @@
 38,Evan Mobley,Harrisburg Frank,38,662,21.35483870967742,33.71075268817205
 39,Evan Mobley,Harrisburg Frank,39,670,20.9375,33.76770833333334
 40,Evan Mobley,Harrisburg Frank,40,693,21.0,34.02626262626263
+41,Evan Mobley,Harrisburg Frank,41,723,21.264705882352942,34.07156862745098
 0,Daniel Gafford,Harrisburg Frank,0,17,17.0,22.1
 1,Daniel Gafford,Harrisburg Frank,1,28,14.0,20.15
 2,Daniel Gafford,Harrisburg Frank,2,42,14.0,21.0
@@ -3361,6 +3414,7 @@
 38,Daniel Gafford,Harrisburg Frank,38,620,17.22222222222222,22.80092592592592
 39,Daniel Gafford,Harrisburg Frank,39,639,17.27027027027027,22.920270270270265
 40,Daniel Gafford,Harrisburg Frank,40,654,17.210526315789473,22.933333333333326
+41,Daniel Gafford,Harrisburg Frank,41,668,17.128205128205128,22.7542735042735
 0,Malik Monk,Harrisburg Frank,0,10,10.0,18.733333333333334
 1,Malik Monk,Harrisburg Frank,1,16,8.0,17.766666666666666
 2,Malik Monk,Harrisburg Frank,2,34,11.333333333333334,18.844444444444445
@@ -3402,6 +3456,7 @@
 38,Malik Monk,Harrisburg Frank,38,461,13.558823529411764,25.646078431372555
 39,Malik Monk,Harrisburg Frank,39,497,14.2,25.903333333333336
 40,Malik Monk,Harrisburg Frank,40,503,13.972222222222221,25.992129629629634
+41,Malik Monk,Harrisburg Frank,41,535,14.45945945945946,26.082432432432437
 0,Bradley Beal,I Probably Won't Win,0,19,19.0,34.1
 1,Bradley Beal,I Probably Won't Win,1,19,,
 2,Bradley Beal,I Probably Won't Win,2,29,14.5,32.925
@@ -3442,6 +3497,7 @@
 37,Bradley Beal,I Probably Won't Win,37,780,23.636363636363637,35.981818181818184
 38,Bradley Beal,I Probably Won't Win,38,799,23.5,35.99901960784314
 39,Bradley Beal,I Probably Won't Win,39,799,,
+40,Bradley Beal,I Probably Won't Win,40,799,,
 0,Damian Lillard,I Probably Won't Win,0,25,25.0,40.25
 1,Damian Lillard,I Probably Won't Win,1,48,24.0,32.36666666666667
 2,Damian Lillard,I Probably Won't Win,2,51,17.0,30.855555555555554
@@ -3762,7 +3818,7 @@
 36,Klay Thompson,I Probably Won't Win,36,0,,
 37,Klay Thompson,I Probably Won't Win,37,0,,
 38,Klay Thompson,I Probably Won't Win,38,12,12.0,19.916666666666668
-39,Klay Thompson,I Probably Won't Win,39,25,12.5,19.766666666666666
+39,Klay Thompson,I Probably Won't Win,39,24,12.0,19.766666666666666
 0,Harrison Barnes,I Probably Won't Win,0,47,47.0,36.9
 1,Harrison Barnes,I Probably Won't Win,1,82,41.0,37.224999999999994
 2,Harrison Barnes,I Probably Won't Win,2,107,35.666666666666664,36.822222222222216
@@ -3806,6 +3862,7 @@
 40,Harrison Barnes,I Probably Won't Win,40,699,19.416666666666668,33.44537037037037
 41,Harrison Barnes,I Probably Won't Win,41,719,19.43243243243243,33.384684684684686
 42,Harrison Barnes,I Probably Won't Win,42,735,19.342105263157894,33.25482456140351
+43,Harrison Barnes,I Probably Won't Win,43,766,19.641025641025642,33.363675213675215
 0,Will Barton,I Probably Won't Win,0,30,30.0,33.5
 1,Will Barton,I Probably Won't Win,1,49,24.5,32.56666666666666
 2,Will Barton,I Probably Won't Win,2,62,20.666666666666668,32.205555555555556
@@ -3926,6 +3983,7 @@
 37,Tyler Herro,I Probably Won't Win,37,620,19.375,32.694270833333334
 38,Tyler Herro,I Probably Won't Win,38,627,19.0,32.792929292929294
 39,Tyler Herro,I Probably Won't Win,39,663,19.5,32.8156862745098
+40,Tyler Herro,I Probably Won't Win,40,699,19.97142857142857,32.89666666666667
 0,Omer Yurtseven,I Probably Won't Win,0,8,8.0,8.25
 1,Omer Yurtseven,I Probably Won't Win,1,8,,
 2,Omer Yurtseven,I Probably Won't Win,2,8,4.0,4.941666666666666
@@ -3966,6 +4024,7 @@
 37,Omer Yurtseven,I Probably Won't Win,37,273,9.413793103448276,13.545977011494251
 38,Omer Yurtseven,I Probably Won't Win,38,307,10.233333333333333,14.150555555555554
 39,Omer Yurtseven,I Probably Won't Win,39,331,10.67741935483871,14.79247311827957
+40,Omer Yurtseven,I Probably Won't Win,40,360,11.25,15.228125
 0,Giannis Antetokounmpo,St. Joan of Arc CYO Team,0,43,43.0,30.95
 1,Giannis Antetokounmpo,St. Joan of Arc CYO Team,1,66,33.0,26.875
 2,Giannis Antetokounmpo,St. Joan of Arc CYO Team,2,92,30.666666666666668,28.05
@@ -4049,6 +4108,7 @@
 37,LeBron James,St. Joan of Arc CYO Team,37,999,37.0,36.92716049382715
 38,LeBron James,St. Joan of Arc CYO Team,38,1041,37.17857142857143,36.91190476190476
 39,LeBron James,St. Joan of Arc CYO Team,39,1087,37.48275862068966,36.78965517241379
+40,LeBron James,St. Joan of Arc CYO Team,40,1116,37.2,36.86111111111111
 0,Nikola Vucevic,St. Joan of Arc CYO Team,0,23,23.0,35.88333333333333
 1,Nikola Vucevic,St. Joan of Arc CYO Team,1,36,18.0,33.608333333333334
 2,Nikola Vucevic,St. Joan of Arc CYO Team,2,72,24.0,33.43888888888889
@@ -4087,6 +4147,7 @@
 35,Nikola Vucevic,St. Joan of Arc CYO Team,35,794,27.379310344827587,33.33735632183908
 36,Nikola Vucevic,St. Joan of Arc CYO Team,36,807,26.9,33.367777777777775
 37,Nikola Vucevic,St. Joan of Arc CYO Team,37,835,26.93548387096774,33.16666666666667
+38,Nikola Vucevic,St. Joan of Arc CYO Team,38,849,26.53125,33.094791666666666
 0,Fred VanVleet,St. Joan of Arc CYO Team,0,5,5.0,34.71666666666667
 1,Fred VanVleet,St. Joan of Arc CYO Team,1,24,12.0,35.84166666666667
 2,Fred VanVleet,St. Joan of Arc CYO Team,2,42,14.0,36.855555555555554
@@ -4164,6 +4225,7 @@
 36,Tobias Harris,St. Joan of Arc CYO Team,36,638,22.785714285714285,35.02380952380953
 37,Tobias Harris,St. Joan of Arc CYO Team,37,669,23.06896551724138,34.99885057471265
 38,Tobias Harris,St. Joan of Arc CYO Team,38,681,22.7,34.652777777777786
+39,Tobias Harris,St. Joan of Arc CYO Team,39,702,22.64516129032258,34.72473118279571
 0,Jusuf Nurkic,St. Joan of Arc CYO Team,0,38,38.0,28.75
 1,Jusuf Nurkic,St. Joan of Arc CYO Team,1,58,29.0,27.008333333333333
 2,Jusuf Nurkic,St. Joan of Arc CYO Team,2,63,21.0,25.816666666666666
@@ -4244,6 +4306,7 @@
 38,Montrezl Harrell,St. Joan of Arc CYO Team,38,686,,
 39,Montrezl Harrell,St. Joan of Arc CYO Team,39,686,,
 40,Montrezl Harrell,St. Joan of Arc CYO Team,40,703,20.676470588235293,25.35980392156864
+41,Montrezl Harrell,St. Joan of Arc CYO Team,41,725,20.714285714285715,25.222380952380963
 0,Kyrie Irving,St. Joan of Arc CYO Team,0,0,,
 1,Kyrie Irving,St. Joan of Arc CYO Team,1,0,,
 2,Kyrie Irving,St. Joan of Arc CYO Team,2,0,,
@@ -4283,6 +4346,7 @@
 36,Kyrie Irving,St. Joan of Arc CYO Team,36,23,,
 37,Kyrie Irving,St. Joan of Arc CYO Team,37,23,,
 38,Kyrie Irving,St. Joan of Arc CYO Team,38,46,23.0,35.81666666666666
+39,Kyrie Irving,St. Joan of Arc CYO Team,39,56,18.666666666666668,32.11111111111111
 0,Mo Bamba,St. Joan of Arc CYO Team,0,28,28.0,27.25
 1,Mo Bamba,St. Joan of Arc CYO Team,1,61,30.5,30.558333333333334
 2,Mo Bamba,St. Joan of Arc CYO Team,2,75,25.0,31.650000000000002
@@ -4324,6 +4388,7 @@
 38,Mo Bamba,St. Joan of Arc CYO Team,38,586,19.533333333333335,28.094444444444445
 39,Mo Bamba,St. Joan of Arc CYO Team,39,600,19.35483870967742,28.121505376344086
 40,Mo Bamba,St. Joan of Arc CYO Team,40,610,19.0625,28.105208333333334
+41,Mo Bamba,St. Joan of Arc CYO Team,41,610,,
 0,Tyrese Maxey,St. Joan of Arc CYO Team,0,27,27.0,33.666666666666664
 1,Tyrese Maxey,St. Joan of Arc CYO Team,1,38,19.0,34.95833333333333
 2,Tyrese Maxey,St. Joan of Arc CYO Team,2,47,15.666666666666666,34.65555555555555
@@ -4363,6 +4428,7 @@
 36,Tyrese Maxey,St. Joan of Arc CYO Team,36,592,,
 37,Tyrese Maxey,St. Joan of Arc CYO Team,37,592,,
 38,Tyrese Maxey,St. Joan of Arc CYO Team,38,592,,
+39,Tyrese Maxey,St. Joan of Arc CYO Team,39,601,18.21212121212121,34.649494949494944
 0,Josh Giddey,St. Joan of Arc CYO Team,0,11,11.0,28.7
 1,Josh Giddey,St. Joan of Arc CYO Team,1,20,10.0,24.133333333333333
 2,Josh Giddey,St. Joan of Arc CYO Team,2,51,17.0,27.277777777777782
@@ -4481,6 +4547,7 @@
 36,Seth Curry,St. Joan of Arc CYO Team,36,631,18.558823529411764,34.731372549019596
 37,Seth Curry,St. Joan of Arc CYO Team,37,662,18.914285714285715,34.78285714285713
 38,Seth Curry,St. Joan of Arc CYO Team,38,662,,
+39,Seth Curry,St. Joan of Arc CYO Team,39,675,18.75,34.76898148148147
 0,Jarred Vanderbilt,St. Joan of Arc CYO Team,0,8,8.0,15.116666666666667
 1,Jarred Vanderbilt,St. Joan of Arc CYO Team,1,22,11.0,13.841666666666667
 2,Jarred Vanderbilt,St. Joan of Arc CYO Team,2,21,7.0,12.161111111111111
